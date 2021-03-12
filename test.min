@@ -1,0 +1,10 @@
+function sum;
+BEGIN_PARAMS
+  d,e : integer;
+END_PARAMS
+BEGIN_LOCALS
+  a,b,c : integer;
+END_LOCALS
+BEGIN_BODY
+  c := a + c;
+END_BODY
